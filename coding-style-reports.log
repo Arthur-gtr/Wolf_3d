@@ -1,0 +1,4 @@
+./src/game/handle_game_event.c:62: MINOR:C-L2
+./src/game/launch_game.c:50: MINOR:C-L3
+./src/game/launch_game.c:56: MAJOR:C-F3
+./src/init/free_game_handler.o:1: MAJOR:C-O1

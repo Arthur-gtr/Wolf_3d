@@ -22,4 +22,6 @@ int check_cross(void);
 int check_circle(void);
 int check_square(void);
 int check_triangle(void);
+sfUint8 get_controller_button(void);
+
 #endif //CONTROLLER_H
